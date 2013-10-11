@@ -1,0 +1,12 @@
+newBlockTest:    
+    ignorecreative: true
+    
+    invertmouse: false
+    
+    log:
+        filename: newBlockTest.log
+        
+    commands:
+        logtofile: false
+        logtoconsole: false  
+		

@@ -1,6 +1,7 @@
 name: newBlockTest
 version: 0.1
-description: newBlock Test für Bukkit Server
-author: Kryssi79
+description: so eine Art neuer Block
+authors: [Kryssi79, Kryssi79]
 
 main: com.Kryssi.newBlockTest.main
+
